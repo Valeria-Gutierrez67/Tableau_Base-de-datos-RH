@@ -19,11 +19,20 @@ Transformar y visualizar los datos que permita al departemento de Recursos human
    - Se identifico que 207 empleados continuan activos dentro de la empresa distribuidos entre los departamentos de Production, IT/IS, Sales, Software Engineering y Admin Offices, enlistados conforme al orden de mayor número de empleados activos. 
    - Se determina 16 empleados termino su contrato por alguna causa de las siguientes: attendance, career change, Fatal atraction, gross misconduct, Learned tha he is a gansgster, no call- no show y performance.
    - Se identifica que 88 empleados pideron el termino de su contrato laboral de forma voluntaria siendo la principal razón que obtuvieron otro puesto dentro de la empresa, sin embargo la segunda razón de renuncia voluntaria esta determinada por infelicidad laboral.
+   - El departamento de Production 75 empleados pidieron su termino laboral de forma voluntaria convietiendo a este departamento en el que presentea mayor abandono laboral. 
   
    - ![image](https://github.com/user-attachments/assets/dd80433e-b75e-4910-8243-87277d7c66ff)
    - ![image](https://github.com/user-attachments/assets/a2ec14d1-c5cf-4d95-9af4-883dbf70e9f5)
-
-
      
-3. Total de Productos vendidos 
-  - La tienda vendio 2,514 productos en el años; de las 1,000 transacciones 342 veces compraron productos de electrónica, 351 veces productos de ropa y 307 veces productos de belleza.
+3. Participación en proyectos especiales 
+  - El departamento de IT/IS es al que se le han asignado a los empleados la mayor cantidad de proyectos especiales por lo que es el que presenta mayor participación. Siendo Warfield, Sarah y Costello, Frank los empleados con mayor participación teniendo cada uno 8 participaciones en proyectos especiales.
+  - En el caso del departamento de Sotfware Engineering se le han asignado 46 proyectos especiales y el mayor número de proyectos que tienen un mismo empleado es de 6.
+
+  - ![image](https://github.com/user-attachments/assets/09d19cff-dc9a-4311-987f-14168b275c19)
+
+## Observaciones 
+
+- El departamento de production apesar de ser uno de los mejores pagados solo ha tenido 3 proyectos asignados y es el que presenta mayor número de empleados por renuncia voluntaria, sin embargo en el perfomance score la mayoria tienen Full Meets y la satisfación del empleado es de 629.
+- Sin embargo el hecho de que 207 empleados de 311 permanescan activos dentro de la empresa representa una baja rotación de personal. Sin embargo el score más alto de satisfación del empleado es de 5 y se observa con mayor frecuencia en los empleados que obtuvieron un performance score de Full Meets.
+
+https://public.tableau.com/app/profile/valeria.karina.guti.rrez.medina/viz/Casopracticoadelantado/Historia1?publish=yes
