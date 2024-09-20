@@ -23,6 +23,7 @@ Transformar y visualizar los datos que permita al departemento de Recursos human
   
     ![image](https://github.com/user-attachments/assets/dd80433e-b75e-4910-8243-87277d7c66ff)
    Imagen 1. Se muestra el status de los 311 empleados de la empresa por departamentos.
+   
     ![image](https://github.com/user-attachments/assets/a2ec14d1-c5cf-4d95-9af4-883dbf70e9f5)
    Imagen 2. Se muestra las principales razones de termino laboral por alguna causa o por termino voluntario.
    
