@@ -39,4 +39,4 @@ Transformar y visualizar los datos que permita al departemento de Recursos human
 - Sin embargo el hecho de que 207 empleados de 311 permanescan activos dentro de la empresa representa una baja rotación de personal, se debe tomar en cuenta que el score más alto de satisfación del empleado es de 5 y se observa con mayor frecuencia en los empleados que obtuvieron un performance score de Full Meets.
 
 # Tableau story
-Select * from https://public.tableau.com/app/profile/valeria.karina.guti.rrez.medina/viz/Casopracticoadelantado/Historia1?publish=yes
+https://public.tableau.com/app/profile/valeria.karina.guti.rrez.medina/viz/Casopracticoadelantado/Historia1?publish=yes
