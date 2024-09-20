@@ -33,6 +33,6 @@ Transformar y visualizar los datos que permita al departemento de Recursos human
 ## Observaciones 
 
 - El departamento de production apesar de ser uno de los mejores pagados solo ha tenido 3 proyectos asignados y es el que presenta mayor número de empleados por renuncia voluntaria, sin embargo en el perfomance score la mayoria tienen Full Meets y la satisfación del empleado es de 629.
-- Sin embargo el hecho de que 207 empleados de 311 permanescan activos dentro de la empresa representa una baja rotación de personal. Sin embargo el score más alto de satisfación del empleado es de 5 y se observa con mayor frecuencia en los empleados que obtuvieron un performance score de Full Meets.
+- Sin embargo el hecho de que 207 empleados de 311 permanescan activos dentro de la empresa representa una baja rotación de personal pero se debe tomar en cuenta que el score más alto de satisfación del empleado es de 5 y se observa con mayor frecuencia en los empleados que obtuvieron un performance score de Full Meets.
 
 https://public.tableau.com/app/profile/valeria.karina.guti.rrez.medina/viz/Casopracticoadelantado/Historia1?publish=yes
